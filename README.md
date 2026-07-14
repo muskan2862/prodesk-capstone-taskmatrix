@@ -118,7 +118,7 @@ The UI has been designed before development following enterprise product design 
 ![image alt](https://github.com/muskan2862/prodesk-capstone-taskmatrix/blob/51ed87bee8b258aa1acbdc7a2a42c090db1fd417/Dashboard.png)
 
 ### Kanban Board
-![image alt]()
+![image alt](https://github.com/muskan2862/prodesk-capstone-taskmatrix/blob/cd7dc9e0e1733d0e90d8941134aed42b50c7461c/Kanban%20Board.png)
 
 -----
 
