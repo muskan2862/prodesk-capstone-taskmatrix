@@ -112,13 +112,13 @@ The UI has been designed before development following enterprise product design 
 ## UI Screens
 
 ### Login Page
-![Login Page](./assets/login.png)
+![image alt]()
 
 ### Dashboard
-![Dashboard](./assets/dashboard.png)
+![image alt]()
 
 ### Kanban Board
-![Kanban Board](./assets/kanbanBoard.png)
+![image alt]()
 
 -----
 
